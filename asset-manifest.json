@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React_Tutorial/static/css/main.61d0a6bd.chunk.css",
+    "main.js": "/React_Tutorial/static/js/main.d1eeddcf.chunk.js",
+    "main.js.map": "/React_Tutorial/static/js/main.d1eeddcf.chunk.js.map",
+    "runtime-main.js": "/React_Tutorial/static/js/runtime-main.d41484e2.js",
+    "runtime-main.js.map": "/React_Tutorial/static/js/runtime-main.d41484e2.js.map",
+    "static/js/2.c4a35162.chunk.js": "/React_Tutorial/static/js/2.c4a35162.chunk.js",
+    "static/js/2.c4a35162.chunk.js.map": "/React_Tutorial/static/js/2.c4a35162.chunk.js.map",
+    "index.html": "/React_Tutorial/index.html",
+    "static/css/main.61d0a6bd.chunk.css.map": "/React_Tutorial/static/css/main.61d0a6bd.chunk.css.map",
+    "static/js/2.c4a35162.chunk.js.LICENSE.txt": "/React_Tutorial/static/js/2.c4a35162.chunk.js.LICENSE.txt",
+    "static/media/img1.svg": "/React_Tutorial/static/media/img1.7ccb8651.svg",
+    "static/media/img2.svg": "/React_Tutorial/static/media/img2.5f18b1bd.svg",
+    "static/media/img3.svg": "/React_Tutorial/static/media/img3.d1448445.svg",
+    "static/media/serv_img1.7d4fce1f.svg": "/React_Tutorial/static/media/serv_img1.7d4fce1f.svg",
+    "static/media/serv_img2.15ed7a7b.svg": "/React_Tutorial/static/media/serv_img2.15ed7a7b.svg",
+    "static/media/serv_img3.d3e7e213.svg": "/React_Tutorial/static/media/serv_img3.d3e7e213.svg",
+    "static/media/video.321fe793.mp4": "/React_Tutorial/static/media/video.321fe793.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d41484e2.js",
+    "static/js/2.c4a35162.chunk.js",
+    "static/css/main.61d0a6bd.chunk.css",
+    "static/js/main.d1eeddcf.chunk.js"
+  ]
+}
